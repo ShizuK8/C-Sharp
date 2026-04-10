@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s_13980_devxr\\Documents\\C\\jeux des batons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACADEFC-9187-49CE-A568-ACBCD8A4B57E}|jeux des batons\\jeux des batons.vbproj|c:\\users\\s_13980_devxr\\documents\\c\\jeux des batons\\jeux des batons\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9ACADEFC-9187-49CE-A568-ACBCD8A4B57E}|jeux des batons\\jeux des batons.vbproj|solutionrelative:jeux des batons\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\s_13980_devxr\\Documents\\C\\jeux des batons\\jeux des batons\\Program.vb",
+              "RelativeDocumentMoniker": "jeux des batons\\Program.vb",
+              "ToolTip": "C:\\Users\\s_13980_devxr\\Documents\\C\\jeux des batons\\jeux des batons\\Program.vb",
+              "RelativeToolTip": "jeux des batons\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-10T07:44:08.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

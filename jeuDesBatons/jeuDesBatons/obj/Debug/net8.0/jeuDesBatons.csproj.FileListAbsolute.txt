@@ -1,0 +1,14 @@
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\bin\Debug\net8.0\jeuDesBatons.exe
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\bin\Debug\net8.0\jeuDesBatons.deps.json
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\bin\Debug\net8.0\jeuDesBatons.runtimeconfig.json
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\bin\Debug\net8.0\jeuDesBatons.dll
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\bin\Debug\net8.0\jeuDesBatons.pdb
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.AssemblyInfoInputs.cache
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.AssemblyInfo.cs
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.csproj.CoreCompileInputs.cache
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.dll
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\refint\jeuDesBatons.dll
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.pdb
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\jeuDesBatons.genruntimeconfig.cache
+C:\Users\s_13980_devxr\Documents\C\jeuDesBatons\jeuDesBatons\obj\Debug\net8.0\ref\jeuDesBatons.dll

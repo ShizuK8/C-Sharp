@@ -1,0 +1,14 @@
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.AssemblyInfoInputs.cache
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.AssemblyInfo.cs
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\bin\Debug\net8.0\guessTheNumber.exe
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\bin\Debug\net8.0\guessTheNumber.deps.json
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\bin\Debug\net8.0\guessTheNumber.runtimeconfig.json
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\bin\Debug\net8.0\guessTheNumber.dll
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\bin\Debug\net8.0\guessTheNumber.pdb
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.dll
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\refint\guessTheNumber.dll
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.pdb
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\guessTheNumber.genruntimeconfig.cache
+C:\Users\s_13980_devxr\Documents\C\guessTheNumber\guessTheNumber\obj\Debug\net8.0\ref\guessTheNumber.dll
